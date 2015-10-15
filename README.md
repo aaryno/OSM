@@ -1,2 +1,2 @@
 # OSM
-files needed for OSM import to geoserver. 
+Files needed for OSM import to geoserver. 
